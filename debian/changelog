@@ -1,3 +1,11 @@
+plymouth (0.9.4git20200323-0ubuntu6.2mamolinux2) focal; urgency=medium
+
+  * Reduce size of mamolinux-logo.png
+    - Reduce the height of mamolinux-logo to 48px
+    - Keep scale of the image to 1
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Mon, 27 Dec 2021 11:23:02 +0530
+
 plymouth (0.9.4git20200323-0ubuntu6.2mamolinux1) focal; urgency=medium
 
   * Add mamolinux-logo plymouth theme
