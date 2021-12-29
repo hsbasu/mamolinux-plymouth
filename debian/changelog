@@ -1,3 +1,9 @@
+plymouth (0.9.4git20200323-0ubuntu6.2mamolinux3) focal; urgency=medium
+
+  * Rebuild
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Wed, 29 Dec 2021 10:00:16 +0530
+
 plymouth (0.9.4git20200323-0ubuntu6.2mamolinux2) focal; urgency=medium
 
   * Reduce size of mamolinux-logo.png
